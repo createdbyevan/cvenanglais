@@ -171,6 +171,7 @@ width: 85%;
     display:flex;
     flex-flow: row wrap;
     margin-bottom: 10px;
+ margin-left : 90%;
 }
 .comp p{
     flex: 0 0 80%;
